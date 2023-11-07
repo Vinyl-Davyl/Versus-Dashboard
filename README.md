@@ -18,7 +18,7 @@
 - Website: https://vinyldavyl.netlify.app
 - Twitter: [@Vinylchi](https://twitter.com/Vinylchi)
 
-## Support is contiguous 
+## Support is contagious 
 
 Leave a ⭐️ If this project got you going!
 <p>
